@@ -1,0 +1,15 @@
+Copy con vendors.txt
+dir
+
+dir
+cd
+
+asdlkfaksdl;
+touch vendors.txt
+
+
+
+
+cd ..
+dir
+asjkl;dfajkl;sdfjkl;asdfjlk;asdjlkf;asdjk;fa
